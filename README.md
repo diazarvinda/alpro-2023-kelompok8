@@ -1,1 +1,2 @@
 # alpro-2023-kelompok8
+### Dalam mengantisipasi permasalahan kualitas udara di ibu kota kami membuat sebuah aplikasi untuk memprediksi kualitas udara untuk beberapa hari kedepan agar user bisa lebih waspada dengan mengurangi mobilisasi atau menggunakan masker saat keluar dari rumah. Pada aplikasi ini machine learning menggunakan data historis dari accuweather (scrapping) untuk memprediksi kualitas udara tersebut.
